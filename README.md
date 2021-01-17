@@ -1,2 +1,2 @@
-# OrchardSkills.OrchardCore.Blazor
-Blazor and Orchard Core
+# OrchardSkills.OrchardCore.BlazorTesting
+Blazor and Orchard Core Testing
